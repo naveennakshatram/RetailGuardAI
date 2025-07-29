@@ -48,3 +48,4 @@ This project is for educational and research purposes. Please ensure ethical and
 ### Detection of person and objects
 #### Code :  [Python File](./models/personandobject_detection.py)
 #### Video : [Video File](./demo/videos/Personandobject_detection.mov)
+#### Video : [![Click to view demo](./demo/images/Personandobject.png)](./demo/videos/Personandobject_detection.mov)
