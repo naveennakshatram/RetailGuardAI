@@ -22,7 +22,7 @@ RetailGuardAI is a Python-based project that uses cutting-edge computer vision a
 
 This project is for educational and research purposes. Please ensure ethical and legal usage, especially in real-world retail environments. Respect customer privacy and follow data protection regulations like GDPR.
 
-## 🚀 Demo
+## 🚀 Project Demo
 
 ![Demo GIF](.....!)  Pending...!
 
@@ -43,3 +43,8 @@ This project is for educational and research purposes. Please ensure ethical and
 
 ## 🗂️ Project Structure
 
+## 🚀 Concept Demo
+
+### Detection of person and objects
+#### Code :  [Python File](./models/personandobject_detection.py)
+#### Video : [Video File](./demo/videos/Personandobject_detection.mov)
